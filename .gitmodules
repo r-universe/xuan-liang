@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ggmatplot"]
+	path = ggmatplot
+	url = https://github.com/xuan-liang/ggmatplot
+	shallow = true
+	registered = true
